@@ -1,2 +1,2 @@
 # Devops-git
-Sample github-repo
+Sample github-repo for devops project 
